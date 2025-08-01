@@ -45,5 +45,36 @@ The goal is to build a predictive model that can **identify fraudulent credit ca
 
 ---
 
-## 📁 Folder Structure
+🧪 Model Evaluation Metrics
 
+    Accuracy
+
+    Precision
+
+    Recall
+
+    F1-Score
+
+    ROC-AUC Score
+
+    ⚠️ Note: Because the dataset is highly imbalanced, metrics like precision, recall, and ROC-AUC are more reliable than accuracy.
+
+🔐 Imbalanced Data Handling
+
+    Under-sampling / Over-sampling
+
+    SMOTE (Synthetic Minority Over-sampling Technique)
+
+    Anomaly Detection Techniques (e.g., Isolation Forest, One-Class SVM)
+
+📷 Visualizations
+
+    Distribution of fraud vs. non-fraud
+
+    Correlation matrix
+
+    Precision-recall curve
+
+    Confusion matrix heatmap
+
+    Feature importance (for tree-based models)
